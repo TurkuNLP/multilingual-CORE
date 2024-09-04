@@ -9,7 +9,6 @@ The data in this repository was used to train our **multilingual register classi
 If you use this dataset in your research or projects, please cite the following paper (currently under review for publication):
 
 ```bibtex
-@article{YourPaper2024,
 @misc{henriksson2024untanglingunrestrictedwebautomatic,
       title={Untangling the Unrestricted Web: Automatic Identification of Multilingual Registers},
       author={Erik Henriksson and Amanda Myntti and Anni Eskelinen and Selcen Erten-Johansson and Saara Hellström and Veronika Laippala},
