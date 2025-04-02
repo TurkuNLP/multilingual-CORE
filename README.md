@@ -9,14 +9,14 @@ The data in this repository was used to train our **multilingual register classi
 If you use this dataset in your research or projects, please cite the following paper (currently under review for publication):
 
 ```bibtex
-@misc{henriksson2024untanglingunrestrictedwebautomatic,
-      title={Untangling the Unrestricted Web: Automatic Identification of Multilingual Registers},
-      author={Erik Henriksson and Amanda Myntti and Anni Eskelinen and Selcen Erten-Johansson and Saara Hellström and Veronika Laippala},
+@misc{henriksson2024automaticregisteridentificationopen,
+      title={Automatic register identification for the open web using multilingual deep learning}, 
+      author={Erik Henriksson and Amanda Myntti and Saara Hellström and Anni Eskelinen and Selcen Erten-Johansson and Veronika Laippala},
       year={2024},
       eprint={2406.19892},
       archivePrefix={arXiv},
       primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2406.19892},
+      url={https://arxiv.org/abs/2406.19892}, 
 }
 ```
 
